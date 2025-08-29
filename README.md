@@ -1,6 +1,6 @@
 # random-quote
 
- web application that fetches random quotes from an API and allows users to save their favorite quotes to GitHub repositories.
+ This is a web application that fetches random quotes from an API.
 
 # Features
 - Random Quote Generation: Fetches inspirational quotes from the Quotable API
