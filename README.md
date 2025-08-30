@@ -2,6 +2,10 @@
 
  This is a web application that fetches random quotes from an API.
 
+## Live Demo
+
+You can view a live version of this tool at [(https://kanai6344.github.io/random-quote/)]
+
 # Features
 - Random Quote Generation: Fetches inspirational quotes from the Quotable API
 - GitHub Integration: Save quotes directly to your GitHub repositories
